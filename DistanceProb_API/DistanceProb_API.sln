@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceProb_API", "DistanceProb_API\DistanceProb_API.csproj", "{021EDCC9-F16B-43CC-BA26-49EC4C2EB560}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceProb_API_UnitTests", "DistanceProb_API_UnitTests\DistanceProb_API_UnitTests.csproj", "{5D55985E-F1FD-47FC-AD21-EE07015596B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{021EDCC9-F16B-43CC-BA26-49EC4C2EB560}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{021EDCC9-F16B-43CC-BA26-49EC4C2EB560}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{021EDCC9-F16B-43CC-BA26-49EC4C2EB560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D55985E-F1FD-47FC-AD21-EE07015596B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D55985E-F1FD-47FC-AD21-EE07015596B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D55985E-F1FD-47FC-AD21-EE07015596B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D55985E-F1FD-47FC-AD21-EE07015596B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
